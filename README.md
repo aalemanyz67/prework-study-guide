@@ -16,7 +16,7 @@ N/A
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-The Prework Study Guide is an excellent resource if you are thinking about joining the coding/web development world. Think of it as dipping your toes in water before you take the plunge. Within this guide you can find notes on important sections within coding and web development such as HTML, CSS, JavaScript, and Git. This resource also allows us to see how programs such as DevTools allows us to see how developmental tools such as JavaScript run. Furthermore, this resource will assist you in learning about the various topics we use during our prework portion of this bootcamp. For example the importance of using proper tools such as  GitHub and GitBash.
+The Prework Study Guide is an excellent resource if you are thinking about joining the coding/web development world. Think of it as dipping your toes in water before you take the plunge. Within this guide, you can find notes on important sections within coding and web development such as HTML, CSS, JavaScript, and Git. This resource also allows us to see how programs such as DevTools allows us to see how developmental tools such as JavaScript run. Furthermore, this resource will assist you in learning about the various topics we use during our prework portion of this bootcamp. For example the importance of using proper tools such as  GitHub and GitBash.
 
 ## Credits
 
@@ -27,5 +27,3 @@ N/A
 MIT LICENSE / Please refer to the LICENSE in the repo.
 
 
-
-🏆
