@@ -8,7 +8,6 @@ While working on this project, I encountered many challenges, but was able to ta
 
 
 
-
 ## Installation
 
 N/A
@@ -26,7 +25,5 @@ N/A
 ## License
 
 MIT LICENSE / Please refer to the LICENSE in the repo.
-
----
 
 
